@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CastSound</string>
+
+    <string name="app_id">YOUR APP ID</string>
+
+
+    <string name="cast_menu">Cast</string>
+    <string name="switch_rain">Rain</string>
+    <string name="switch_wolves">Wolves</string>
+    <string name="switch_birds">Birds</string>
+    <string name="switch_thunder">Thunder</string>
+</resources>
